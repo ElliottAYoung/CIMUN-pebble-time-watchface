@@ -1,0 +1,43 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ElliottAYoung",
+    "longName": "CIMUN",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/CIMUN.png",
+                "name": "IMAGE_BACKGROUND",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/globe_example.png",
+                "name": "EXAMPLE_GLOBE",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/Ubuntu-R.ttf",
+                "name": "FONT_UBUNTU_R_30",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "CIMUN",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "0c097f7e-7d98-424a-8376-3aec7dca7db8",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
